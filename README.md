@@ -1,2 +1,5 @@
-# extract-sketches
-Opencv based sketch extraction from scan for thesis. 
+# Extract sketches
+
+Opencv based sketch extraction.
+
+Works only on the specific scans to create dataset.
